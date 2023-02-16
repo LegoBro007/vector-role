@@ -1,6 +1,5 @@
-### Описание
-Роль для установки vector.
+### Description
 
-- Установка vector
-- Создание systemd unit Vector
-- Конфигурирование vector на передачу данных в clickhouse
+- Vector installation 
+- Systemd creation
+- Configuring of the vector for clikhouse
